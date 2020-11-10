@@ -1,0 +1,7 @@
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+server-->browser: gets JSON file with updated notes
+
+note over browser:
+Browser updates notes recieved
+from server locally using javascript
+end note
